@@ -1,0 +1,11 @@
+c:\users\halitbozkurt\documents\visual studio 2015\Projects\notifyIcon\notifyIcon\bin\Debug\notifyIcon.exe.config
+c:\users\halitbozkurt\documents\visual studio 2015\Projects\notifyIcon\notifyIcon\bin\Debug\notifyIcon.exe
+c:\users\halitbozkurt\documents\visual studio 2015\Projects\notifyIcon\notifyIcon\bin\Debug\notifyIcon.pdb
+c:\users\halitbozkurt\documents\visual studio 2015\Projects\notifyIcon\notifyIcon\bin\Debug\notifyIcon.xml
+c:\users\halitbozkurt\documents\visual studio 2015\Projects\notifyIcon\notifyIcon\obj\Debug\notifyIcon.vbprojResolveAssemblyReference.cache
+c:\users\halitbozkurt\documents\visual studio 2015\Projects\notifyIcon\notifyIcon\obj\Debug\notifyIcon.Form1.resources
+c:\users\halitbozkurt\documents\visual studio 2015\Projects\notifyIcon\notifyIcon\obj\Debug\notifyIcon.Resources.resources
+c:\users\halitbozkurt\documents\visual studio 2015\Projects\notifyIcon\notifyIcon\obj\Debug\notifyIcon.vbproj.GenerateResource.Cache
+c:\users\halitbozkurt\documents\visual studio 2015\Projects\notifyIcon\notifyIcon\obj\Debug\notifyIcon.exe
+c:\users\halitbozkurt\documents\visual studio 2015\Projects\notifyIcon\notifyIcon\obj\Debug\notifyIcon.xml
+c:\users\halitbozkurt\documents\visual studio 2015\Projects\notifyIcon\notifyIcon\obj\Debug\notifyIcon.pdb
